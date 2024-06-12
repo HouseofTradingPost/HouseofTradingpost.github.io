@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Someone called Revnak is '1 in aoe3."
+title: "Someone called Revnak is '1 in aoe."
 categories: aoe3
 ---
 
